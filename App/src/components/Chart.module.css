@@ -1,0 +1,377 @@
+.lineChartChild {
+  position: absolute;
+  height: 99.72%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0.28%;
+  left: 0;
+}
+.text {
+  left: 2.98%;
+}
+.text,
+.text1,
+.text2 {
+  position: absolute;
+  top: 96.95%;
+}
+.text1 {
+  left: 11.58%;
+}
+.text2 {
+  left: 20.18%;
+}
+.text3 {
+  left: 28.77%;
+}
+.text3,
+.text4,
+.text5,
+.text6,
+.text7 {
+  position: absolute;
+  top: 96.95%;
+}
+.text4 {
+  left: 37.37%;
+}
+.text5 {
+  left: 45.97%;
+}
+.text6 {
+  left: 54.57%;
+}
+.text7 {
+  left: 63.16%;
+}
+.text10,
+.text11,
+.text8,
+.text9 {
+  position: absolute;
+  top: 96.95%;
+}
+.text8 {
+  left: 71.76%;
+}
+.text9 {
+  left: 80.36%;
+}
+.text10 {
+  left: 88.95%;
+}
+.text11 {
+  left: 97.55%;
+}
+.div {
+  width: 2.44%;
+  top: 92.8%;
+  left: 0;
+  display: inline-block;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  text-align: right;
+}
+.div1 {
+  width: 2.44%;
+  top: 83.38%;
+  left: 0;
+  display: inline-block;
+}
+.div2 {
+  top: 74.24%;
+}
+.div2,
+.div3,
+.div4 {
+  width: 2.44%;
+  left: 0;
+  display: inline-block;
+}
+.div3 {
+  position: absolute;
+  top: 64.82%;
+  text-align: right;
+}
+.div4 {
+  top: 55.68%;
+}
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  text-align: right;
+}
+.div5 {
+  width: 2.44%;
+  top: 46.26%;
+  left: 0;
+  display: inline-block;
+}
+.div6 {
+  top: 37.12%;
+}
+.div6,
+.div7,
+.div8 {
+  width: 2.44%;
+  left: 0;
+  display: inline-block;
+}
+.div7 {
+  position: absolute;
+  top: 27.7%;
+  text-align: right;
+}
+.div8 {
+  top: 18.56%;
+}
+.div10,
+.div8,
+.div9 {
+  position: absolute;
+  text-align: right;
+}
+.div9 {
+  width: 2.44%;
+  top: 9.14%;
+  left: 0;
+  display: inline-block;
+}
+.div10 {
+  top: 0;
+  left: 0.75%;
+}
+.gridV1Icon {
+  right: 96.08%;
+  left: 3.82%;
+}
+.gridV1Icon,
+.gridV2Icon,
+.gridV3Icon,
+.gridV4Icon,
+.gridV5Icon,
+.gridV6Icon,
+.gridV7Icon {
+  position: absolute;
+  height: 92.8%;
+  width: 0.1%;
+  top: 1.39%;
+  bottom: 5.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gridV2Icon {
+  right: 87.48%;
+  left: 12.42%;
+}
+.gridV3Icon {
+  right: 78.89%;
+  left: 21.01%;
+}
+.gridV4Icon {
+  right: 70.29%;
+  left: 29.61%;
+}
+.gridV5Icon {
+  right: 61.69%;
+  left: 38.21%;
+}
+.gridV6Icon {
+  right: 53.09%;
+  left: 46.8%;
+}
+.gridV7Icon {
+  right: 44.5%;
+  left: 55.4%;
+}
+.gridV10Icon,
+.gridV11Icon,
+.gridV12Icon {
+  height: 92.8%;
+  width: 0.1%;
+  top: 1.39%;
+  bottom: 5.82%;
+}
+.gridV10Icon,
+.gridV11Icon,
+.gridV12Icon,
+.gridV1Icon1,
+.gridV2Icon1,
+.gridV3Icon1,
+.gridV4Icon1,
+.gridV8Icon,
+.gridV9Icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gridV8Icon,
+.gridV9Icon {
+  height: 92.8%;
+  width: 0.1%;
+  top: 1.39%;
+  right: 35.9%;
+  bottom: 5.82%;
+  left: 64%;
+}
+.gridV9Icon {
+  right: 27.3%;
+  left: 72.6%;
+}
+.gridV10Icon {
+  right: 18.71%;
+  left: 81.19%;
+}
+.gridV11Icon {
+  right: 10.11%;
+  left: 89.79%;
+}
+.gridV12Icon {
+  right: 1.51%;
+  left: 98.39%;
+}
+.gridV1Icon1 {
+  top: 94.04%;
+  bottom: 5.68%;
+}
+.gridV1Icon1,
+.gridV2Icon1,
+.gridV3Icon1,
+.gridV4Icon1 {
+  height: 0.28%;
+  width: 94.43%;
+  right: 1.7%;
+  left: 3.87%;
+}
+.gridV2Icon1 {
+  top: 84.63%;
+  bottom: 15.1%;
+}
+.gridV3Icon1 {
+  top: 75.48%;
+  bottom: 24.24%;
+}
+.gridV4Icon1 {
+  top: 66.07%;
+  bottom: 33.66%;
+}
+.gridV10Icon1,
+.gridV11Icon1,
+.gridV5Icon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gridV10Icon1,
+.gridV11Icon1 {
+  height: 0.28%;
+  width: 94.43%;
+  right: 1.7%;
+  left: 3.87%;
+}
+.gridV5Icon1 {
+  top: 56.93%;
+  bottom: 42.8%;
+}
+.gridV5Icon1,
+.gridV6Icon1,
+.gridV7Icon1,
+.gridV8Icon1,
+.gridV9Icon1 {
+  height: 0.28%;
+  width: 94.43%;
+  right: 1.7%;
+  left: 3.87%;
+}
+.gridV6Icon1,
+.gridV7Icon1,
+.gridV8Icon1,
+.gridV9Icon1,
+.line1Icon,
+.line2Icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gridV6Icon1 {
+  top: 47.51%;
+  bottom: 52.22%;
+}
+.gridV7Icon1 {
+  top: 38.37%;
+  bottom: 61.36%;
+}
+.gridV8Icon1 {
+  top: 28.95%;
+  bottom: 70.78%;
+}
+.gridV9Icon1 {
+  top: 19.81%;
+  bottom: 79.92%;
+}
+.gridV10Icon1 {
+  top: 10.39%;
+  bottom: 89.34%;
+}
+.gridV11Icon1 {
+  top: 1.25%;
+  bottom: 98.48%;
+}
+.line1Icon {
+  height: 70.36%;
+  width: 94.66%;
+  top: 7.34%;
+  right: 1.61%;
+  bottom: 22.3%;
+  left: 3.73%;
+}
+.line2Icon {
+  height: 91.69%;
+  width: 94.7%;
+  top: 0.97%;
+  right: 1.57%;
+  bottom: 7.34%;
+  left: 3.72%;
+}
+.lineChart {
+  position: absolute;
+  height: 100.28%;
+  width: 99.42%;
+  top: 0;
+  right: 0.58%;
+  bottom: -0.28%;
+  left: 0;
+}
+.lineCharttwovalues {
+  align-self: stretch;
+  position: relative;
+  height: 360px;
+  flex-shrink: 0;
+}
+.autocompletestandard {
+  align-self: stretch;
+}
+.lineCharttwovaluesParent {
+  align-self: stretch;
+  height: 433px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-4xs);
+  color: var(--color-slategray);
+  font-family: var(--font-inter);
+}

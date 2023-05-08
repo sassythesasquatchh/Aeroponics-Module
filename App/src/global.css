@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Droid+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-droid-sans: "Droid Sans";
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-4xs: 9px;
+
+  /* Colors */
+  --color-whitesmoke: #edf1f2;
+  --color-black: #000;
+  --color-gray: #132533;
+  --color-slategray: #6b7280;
+
+  /* Gaps */
+  --gap-48xl: 67px;
+  --gap-11xl: 30px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-6xl: 25px;
+  --padding-35xl: 54px;
+}

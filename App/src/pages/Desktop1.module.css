@@ -1,0 +1,65 @@
+.sidePanel {
+  align-self: stretch;
+  background-color: var(--color-gray);
+  width: 190px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.anIotModular,
+.modularAeroponics {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 100%;
+}
+.modularAeroponics {
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  height: 76px;
+  flex-shrink: 0;
+}
+.anIotModular {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: var(--font-droid-sans);
+}
+.modularAeroponicsParent {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px 18px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xl);
+  align-items: center;
+  justify-content: flex-start;
+  gap: 35px;
+}
+.sidePanel1 {
+  align-self: stretch;
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 190px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.desktop1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  text-align: left;
+  font-size: 64px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

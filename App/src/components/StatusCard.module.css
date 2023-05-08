@@ -1,0 +1,69 @@
+.ph {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 100%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.slidercontinuous {
+  flex: 1;
+}
+.inputstandard {
+  border: 0;
+  background-color: transparent;
+}
+.slidercontinuousParent {
+  align-self: stretch;
+  height: 63px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.instanceParent,
+.phParent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.phParent {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.instanceParent {
+  flex: 1;
+  align-items: center;
+  gap: var(--gap-11xl);
+}
+.buttoncontainedText {
+  cursor: pointer;
+}
+.buttoncontainedTextParent,
+.frameParent {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttoncontainedTextParent {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-35xl) 0;
+  gap: var(--gap-48xl);
+}
+.frameParent {
+  flex-direction: row;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
